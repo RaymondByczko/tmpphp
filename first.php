@@ -6,7 +6,10 @@ function add(int $a, int $b) {
 	return $a + $b;
 }
 
-function subtract($a, $b) {
+/**
+  * Subtracts two numbers, which are ints.
+  */
+function subtract(int $a, int $b) {
 	return $a - $b;
 }
 ?>

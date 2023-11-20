@@ -6,7 +6,7 @@ function add(int $a, int $b) {
 	return $a + $b;
 }
 
-function subtract($a, $b) {
+function subtract(int $a, int $b) {
 	return $a - $b;
 }
 ?>

@@ -19,4 +19,11 @@ function subtract(int $a, int $b) {
 function multiply(int $a, int $b) {
 	return $a * $b;
 }
+
+/**
+ * Divide two numbers.
+ */
+function divide(int $a, int $b) {
+  return $a/$b;
+}
 ?>

@@ -12,4 +12,11 @@ function add(int $a, int $b) {
 function subtract(int $a, int $b) {
 	return $a - $b;
 }
+
+/**
+  * Multiply two numbers, which are ints.
+  */
+function multiply(int $a, int $b) {
+	return $a * $b;
+}
 ?>
